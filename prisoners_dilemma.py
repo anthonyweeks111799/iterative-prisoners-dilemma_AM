@@ -18,7 +18,7 @@ from __future__ import print_function
 # The results of all previous rounds within a 100-200 round stretch are known
 # to both players. 
 #
-# play_tournament([team0, team1, team2]) executes a tournament and writes to tournament.txt
+# play_tournament([Anthony, Kamden, Jared]) executes a tournament and writes to tournament.txt
 #
 # Each team's strategy should be coded in their assigned Python file, called a module.
 # Each player should have their own .py file containing 
